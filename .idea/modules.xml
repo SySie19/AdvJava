@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FastATool.iml" filepath="$PROJECT_DIR$/FastATool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvJava.iml" filepath="$PROJECT_DIR$/AdvJava.iml" />
     </modules>
   </component>
 </project>
